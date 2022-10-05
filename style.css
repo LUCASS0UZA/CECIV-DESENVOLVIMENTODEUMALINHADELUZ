@@ -1,0 +1,62 @@
+/* Fonte da Pagina */
+
+*{font-family: Arial, Helvetica, sans-serif;}
+
+/* Titulo Principal */
+
+.TituloPrincipal{
+
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: black;
+}
+
+/* Titulo das Sessoes */
+
+.Titulodassessoes{
+
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    font-weight: 400;
+    color: black;
+}
+
+/* Espaçamento */
+
+.jumbotron{margin-bottom: 0px;}
+
+/*Cor dos Icones das Redes Sociais */
+
+.CorIconeSocial{color: black;}
+
+/* Espaçamento dos Icones das Redes Sociais */
+
+.EspaçamentoIcone{padding-left: 5px;}
+
+/* Texto Footer*/
+
+.TextoFooter{
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom:15px;
+}
+
+/* Cor da Pagina */
+
+.CorGold{background-color: #FFD700 ;}
+
+/* SCROLL */
+
+html{scroll-behavior: smooth;}
+
+/* Cor da Fonte */
+
+.preto{color: black;}
+
+/* Espaçamento */
+
+.Espaco{padding-top: 50px;}
